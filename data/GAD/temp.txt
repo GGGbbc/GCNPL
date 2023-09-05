@@ -1,0 +1,2 @@
+0	True	gene	is	relation	to	disease
+0	False	gene	is	irrelevant	to	disease
