@@ -7,8 +7,8 @@
 ## 1. Environments
 
 ```
-- python==3.8.12
-- cuda==11.4
+- python==3.8
+- cuda==11.3
 ```
 
 ## 2. Dependencies
